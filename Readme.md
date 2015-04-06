@@ -5,7 +5,7 @@ seminar](http://www.finmetrics.statistik.uni-muenchen.de/studium_lehre/sommersem
 held at [Chair of Financial
 Econometrics](http://www.finmetrics.statistik.uni-muenchen.de/index.html).
 
-# MathJax install
+# MathJax installation
 
 - either: download zip from [github](https://github.com/mathjax/MathJax)
 - or: clone repository as subtree 
@@ -16,3 +16,25 @@ Econometrics](http://www.finmetrics.statistik.uni-muenchen.de/index.html).
 git subtree add --prefix MathJax https://github.com/mathjax/MathJax.git master --squash
 ````
 
+# Reveal.js installation
+
+````sh
+git subtree add --prefix reveal.js https://github.com/hakimel/reveal.js.git master --squash
+````
+
+# d3 installation
+
+````sh
+git subtree add --prefix d3 https://github.com/mbostock/d3.git master --squash
+````
+# pandoc installation
+
+- download [debian
+  package](https://github.com/jgm/pandoc/releases/download/1.13.2/pandoc-1.13.2-1-amd64.deb)
+- install using package manager
+
+# get pandoc templates
+
+````sh
+git subtree add --prefix pandoc_templates https://github.com/jgm/pandoc-templates.git master --squash
+````
