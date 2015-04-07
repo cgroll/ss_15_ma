@@ -29,9 +29,17 @@ git subtree add --prefix d3 https://github.com/mbostock/d3.git master --squash
 ````
 # pandoc installation
 
+
+On Linux machines:
+- install TeXlive:
+````sh
+sudo apt-get -y install texlive
+````
 - download [debian
   package](https://github.com/jgm/pandoc/releases/download/1.13.2/pandoc-1.13.2-1-amd64.deb)
 - install using package manager
+
+On Windows machines: follow [screencast instructions](https://youtu.be/N9zVyggYeyU)
 
 # get pandoc templates
 
