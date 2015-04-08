@@ -5,6 +5,15 @@ seminar](http://www.finmetrics.statistik.uni-muenchen.de/studium_lehre/sommersem
 held at [Chair of Financial
 Econometrics](http://www.finmetrics.statistik.uni-muenchen.de/index.html).
 
+- [Topics overview](http://cgroll.github.io/ss_15_ma/topics.html)
+- [Topics slides](http://cgroll.github.io/ss_15_ma/topics_pres.html)
+- [Organizational
+  notes](http://cgroll.github.io/ss_15_ma/modus_operandi.html)
+
+## Organizational notes
+
+You can find all topics [here](http://cgroll.github.io/ss_15_ma/topics.html).
+
 # MathJax installation
 
 - either: download zip from [github](https://github.com/mathjax/MathJax)
