@@ -2,6 +2,6 @@
 layout: index
 ---
 
-## [Organizational notes](modus_operandi.html)
+## [Organizational notes](output/modus_operandi.html)
 
-## [Topics](topics.html)
+## [Topics](output/topics.html)
