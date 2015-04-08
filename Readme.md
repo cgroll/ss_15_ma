@@ -5,10 +5,10 @@ seminar](http://www.finmetrics.statistik.uni-muenchen.de/studium_lehre/sommersem
 held at [Chair of Financial
 Econometrics](http://www.finmetrics.statistik.uni-muenchen.de/index.html).
 
-- [Topics overview](http://cgroll.github.io/ss_15_ma/topics.html)
-- [Topics slides](http://cgroll.github.io/ss_15_ma/topics_pres.html)
+- [Topics overview](http://cgroll.github.io/ss_15_ma/output/topics.html)
+- [Topics slides](http://cgroll.github.io/ss_15_ma/output/topics_pres.html)
 - [Organizational
-  notes](http://cgroll.github.io/ss_15_ma/modus_operandi.html)
+  notes](http://cgroll.github.io/ss_15_ma/output/modus_operandi.html)
 
 ## Organizational notes
 
