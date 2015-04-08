@@ -1,13 +1,12 @@
 % Finanzökonometrisches Seminar für MA-Studierende: Vorgaben
 % Christian Groll und Serkan Yener
-% April 13, 2015
 
-## General Requirements for 9 ECTS Credits:
+# General Requirements for 9 ECTS Credits:
 (1) writing a term paper (approximately 30 pages)
 (2) presenting the term paper at the seminar (about 40 minutes)
 (3) complete attendance
 
-## Modus Operandi:
+# Modus Operandi:
 
 (1) Working language is either German or English (depending on participants’ preference).
 (2) The topics and additional organizational matters will be addressed in the preparatory
@@ -22,7 +21,7 @@ on April 20.
 weeks after the assignment process is completed.
 (6) Term paper submission no later than noon June 19. No exceptions granted!
 
-## Compulsory attendance times
+# Compulsory attendance times
 
 (1) preparatory meeting
 (2) two additional meetings, *tba*
