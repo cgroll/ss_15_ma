@@ -2,7 +2,7 @@
 % Christian Groll und Serkan Yener
 
 # General Requirements for 9 ECTS Credits:
-(1) writing a term paper (approximately 30 pages)
+(1) writing a term paper of 50000 characters (approximately 30 pages)
 (2) presenting the term paper at the seminar (about 40 minutes)
 (3) complete attendance
 
