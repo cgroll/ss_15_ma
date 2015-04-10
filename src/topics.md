@@ -14,22 +14,22 @@
 ## Modeling the yield curve: Diebold-Li
 
 - [@rv_dieb_li_2003_forecasting_term_structure_government_bond_yields]
-- Matlab Demo: Stochastic State-Space Modeling of Financial Time-Series Data,
+- Matlab Demo: **Stochastic State-Space Modeling of Financial Time-Series Data**,
   [Video](http://www.mathworks.com/videos/stochastic-state-space-modeling-of-financial-time-series-data-94407.html),
   [Files](http://www.mathworks.com/matlabcentral/fileexchange/47479-data-dieboldli-zip) 
 
 ## State-space modeling of the yield curve
 
 - [@rv_dieb_rudeb_2004_macroeconomy_yield_curve]
-- Matlab Demo: Stochastic State-Space Modeling of Financial Time-Series Data,
+- Matlab Demo: **Stochastic State-Space Modeling of Financial Time-Series Data**,
   [Video](http://www.mathworks.com/videos/stochastic-state-space-modeling-of-financial-time-series-data-94407.html),
   [Files](http://www.mathworks.com/matlabcentral/fileexchange/47479-data-dieboldli-zip) 
 
 ## Cox-Ingersoll-Ross model
 
 - [@rv_cox_inger_1985_theory_term_structure_interest_rates]
-- Maximum likelihood estimation of the Cox-Ingersoll-Ross process:
-  the Matlab implementation. [http://www.mathworks.com/matlabcentral/fileexchange/37297-maximum-likelihood-estimation-of-the-cox-ingersoll-ross-process--the-matlab-implementation](http://www.mathworks.com/matlabcentral/fileexchange/37297-maximum-likelihood-estimation-of-the-cox-ingersoll-ross-process--the-matlab-implementation)
+- **Maximum likelihood estimation of the Cox-Ingersoll-Ross process:
+  the Matlab implementation**. [http://www.mathworks.com/matlabcentral/fileexchange/37297-maximum-likelihood-estimation-of-the-cox-ingersoll-ross-process--the-matlab-implementation](http://www.mathworks.com/matlabcentral/fileexchange/37297-maximum-likelihood-estimation-of-the-cox-ingersoll-ross-process--the-matlab-implementation)
 
 # Financial derivatives
 
