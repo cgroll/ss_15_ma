@@ -10,9 +10,49 @@ Econometrics](http://www.finmetrics.statistik.uni-muenchen.de/index.html).
 - [Organizational
   notes](http://cgroll.github.io/ss_15_ma/output/modus_operandi.html)
 
-## Organizational notes
+## Get the newest version
 
-You can find all topics [here](http://cgroll.github.io/ss_15_ma/topics.html).
+In order to stay up to date with the seminar files, simply clone the
+repository to your computer:
+
+````sh
+git clone https://github.com/cgroll/ss_15_ma.git
+````
+
+You can now produce all output files yourself: (pandoc is required!)
+
+````sh
+cd ss_15_ma
+make
+````
+
+To get new changes from the repository into your local copy, simply
+pull them in with git:
+````sh
+cd ss_15_ma
+git pull origin master
+````
+
+## Requirements
+
+In order to be able to recreate the output yourself, you need to have
+pandoc installed. You can find some installation instructions in the
+accompanying research tools repository.
+
+
+## Publishing workflow
+
+For students that do not succeed in setting up pandoc there also
+should be an online version of at least all html files accessible.
+These files can be updated through the following steps:
+
+- update markdown files
+- create new output files with make
+- commit and upload html files (if output files of master branch are
+  embedded somewhere else, this is already the final stage)
+- copy output files to gh-pages, commit and upload
+- optionally: copy pdf files to Dropbox
+
 
 # MathJax installation
 
